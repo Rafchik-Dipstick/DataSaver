@@ -1,0 +1,36 @@
+All Profiles were sucessfully deleted!
+
+All Services were sucessfully deleted!
+
+A new service'' were added!
+
+A new service'' were added!
+
+A new service'' were added!
+
+All Services were sucessfully deleted!
+
+A new service'' were added!
+
+A new Profile 'LOGIN'with a  'PROFILENAME' login has been added.
+
+A new service'' were added!
+
+A new Profile '1'with a  '1' login has been added.
+
+All Profiles were sucessfully deleted!
+
+All Services were sucessfully deleted!
+
+A new service'' were added!
+
+A new Profile '1'with a  '1' login has been added.
+
+All Services were sucessfully deleted!
+
+All Profiles were sucessfully deleted!
+
+A new service'' were added!
+
+A new service'123' were added!
+
